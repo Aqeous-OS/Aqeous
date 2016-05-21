@@ -7,3 +7,6 @@ The code isn't very well commented, we'll take care of that a bit later, because
 Maybe the documentation helps you out. It's in the html directory.
 Hey, if you enjoyed going through the code, and liked it, consider forking it. Either way, I need to go grind coffee soon before I start
 coding this again, so yeah...- Happy coding guys :)
+
+
+*Ashish Speaking: Hello folks! hmm This OS is currently in active development and still dosent has a complete SHELL of its own. We are currently working on the Multitasking part and the SHELL too :D Most of the code here on github RIGHT NOW is OUTDATED and the MULTITASKING code it contains, WONT RUN!!! so Though you may fork it now, but keep yourself updated because, with every commit, almost everything changes (hopefully, for good). The OS has already started gaining its shape though. Its not like mud now; Its more like partially dry fine clay which dries with every commit to become a stable vase one day. The OS is especially designed for PERFORMANCE and USABILITY. 
